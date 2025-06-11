@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# Created by: Hiab G
+# Created on: June 9
+
+
 import math
 
 
